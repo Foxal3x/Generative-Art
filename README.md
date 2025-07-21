@@ -1,2 +1,2 @@
 # Generative-Art
-Small Generative Art things
+Small generative art things I worked on.
